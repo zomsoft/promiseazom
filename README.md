@@ -5,7 +5,7 @@ I take pleasure in my role as a Data Scientist Consultant, specializing in cloud
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zomsoft)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zomsoft)
 
 
 
