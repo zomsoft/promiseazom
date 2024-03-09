@@ -17,8 +17,12 @@ My academic background in Engineering Technology and Applied Sciences has equipp
 
 <p>I am actively gaining hands-on experience with Big Data and Cloud computing platforms integral to Machine Learning and Business Intelligence Analytics use cases. These use cases are particularly prevalent across various industries undergoing digital transformation, significantly impacting business outcomes.</p>
 
+<hr>
+<div align="right"><img src="![image](https://github.com/zomsoft/promiseazom/assets/102996864/b3e87cc4-a875-4db3-b1a3-863ec8436cb0)"></div>
+</hr>
 
-![image](https://github.com/zomsoft/promiseazom/assets/102996864/b3e87cc4-a875-4db3-b1a3-863ec8436cb0)
+
+
 
 
 
