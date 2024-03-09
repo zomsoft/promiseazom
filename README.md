@@ -31,7 +31,7 @@ My academic background in Engineering Technology and Applied Sciences has equipp
 <hr>
 <h2> Some things you should know about me 👇</h2>
 <ul>
-<li>👨‍💻 I'm currently a <em> Data Scientist </em> at <strong>Flip Robo Technologies, the foremost artificial intelligence company that specializes in chats, web scrapping and building algorithms</strong>.</li>
+<li>👨‍💻 I'm currently a <em> Data Scientist </em> at <strong>Flip Robo Technologies, the foremost Artificial Intelligence company that specializes in chats, web scrapping and building algorithms</strong>.</li>
 <li>👨‍💻 I used to be a <em> Data Analyst </em> at <strong>Guaranty Trust Bank Plc (One of the Biggest Bank in Africa)</strong> and eventually, <em> a Data Scientist </em>.</li>
 <li>👨‍🔬 Before that, I was a <em>Business Intelligence Analyst</em> with <strong>Guaranty Trust Bank Plc</strong>.</li>
 <li>👨‍🔬 And Before that, I was a <em> Program Manager</em>, and helped developing platforms that were geared towards <strong>Digitalization and Business Process Re-engineering</strong>.</li>
