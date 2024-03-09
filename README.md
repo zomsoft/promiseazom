@@ -33,10 +33,9 @@ My academic background in Engineering Technology and Applied Sciences has equipp
 <ul>
 <li>👨‍💻 I'm currently a <em> Data Scientist </em> at <strong>Flip Robo Technologies, the foremost artificial intelligence company that specializes in chats, web scrapping and building algorithms</strong>.</li>
 <li>👨‍💻 I used to be a <em> Data Analyst </em> at <strong>Guaranty Trust Bank Plc (One of the Biggest Bank in Africa)</strong> and eventually, <em> a Data Scientist </em>.</li>
-<li>👨‍💻 I used to be a <em> Data Scientist and eventually, a Data Engineer </em> at <strong>Totogi (A TelcoDR company)</strong>.</li>
-<li>👨‍🔬 Before that, I was an <em>Applied Machine Learning Specialist</em> with <strong>ReVisionz Inc</strong>.</li>
-<li>👨‍🔬 And Before that, I was a <em>2021 Data Science Fellow , and helped develop a Recommender System PoC model</em> with <strong>Cybera Inc and Hockey AI(Actionable Insights)</strong>.</li>
-<li>☁  I have been studying and working on various <strong>Data Science and Machine Learning</strong> <em>Learning programs, individual and team projects, internships and fellowships</em>  <strong>since</strong> late 2019.</li>
+<li>👨‍🔬 Before that, I was a <em>Business Intelligence Analyst</em> with <strong>Guaranty Trust Bank Plc</strong>.</li>
+<li>👨‍🔬 And Before that, I was a <em> Program Manager</em>, and helped developing platforms that were geared towards <strong>Digitalization and Business Process Re-engineering</strong>.</li>
+<li>☁  I have been studying and working on various <strong>Data Science and Machine Learning</strong> <em>Learning programs, individual and team projects, internships and fellowships</em>  <strong>since</strong> late 2021.</li>
 <li>👨‍🎓 Making this switch into Data Science has become one of the best career decisions I have made.</li>
 </ul>
 <hr>
