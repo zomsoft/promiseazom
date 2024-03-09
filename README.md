@@ -10,7 +10,8 @@ My academic background in Engineering Technology and Applied Sciences has equipp
 Furthermore, I am deeply passionate about programming and continuously enhancing my proficiency in Python, R, SQL, database design, data warehouse modeling, as well as Machine Learning model development, experimentation, packaging, and deployment. Additionally, I have some exposure to Product, Program, and Project Management.
 
 I am actively gaining hands-on experience with Big Data and Cloud computing platforms integral to Machine Learning and Business Intelligence Analytics use cases. These use cases are particularly prevalent across various industries undergoing digital transformation, significantly impacting business outcomes.
-![img1](https://github.com/zomsoft/promiseazom/assets/102996864/6d355c8e-5546-4974-a992-4475832674ec)
+![image](https://github.com/zomsoft/promiseazom/assets/102996864/b3e87cc4-a875-4db3-b1a3-863ec8436cb0)
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zomsoft)
