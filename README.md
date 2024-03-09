@@ -1,4 +1,4 @@
-# Hi there...welcome👋 and many thanks for visiting my Profile Page! I am glad you made it this far...😊
+# Hello and welcome👋 Thank you for taking the time to visit my Profile Page. I'm delighted that you've reached this point..😊
 
 <div align="right">
     <img src="https://komarev.com/ghpvc/?username=zomsoft" alt="zomsoft">
