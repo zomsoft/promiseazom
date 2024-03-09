@@ -25,7 +25,6 @@ My academic background in Engineering Technology and Applied Sciences has equipp
 </hr>
 
 <hr>
-<hr>
 <p>Here's a glimpse of the projects I've been immersed in over the past few years since I transitioned my career towards Data Science. Working with programming and crafting solutions in the realm of data has evolved into my passion and primary focus. I prioritize personal development and aim to make constructive contributions within a supportive team setting. My goal is to assist organizations in shaping and enhancing their data strategies.</p>
 </hr>
 
