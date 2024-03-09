@@ -1,7 +1,10 @@
-# Hi there...welcome👋
-Many thanks for visiting my Profile Page! I am glad you made it this far...😊
+# Hi there...welcome👋 and Many thanks for visiting my Profile Page! I am glad you made it this far...😊
 
-I take pleasure in my role as a Data Scientist Consultant, specializing in cloud-based operations. My work involves constructing analytical frameworks and uncovering significant insights to address challenges for various client enterprises and organizations.
+<div align="right">
+    <img src="https://komarev.com/ghpvc/?username=zomsoft" alt="zomsoft">
+</div>
+
+<h2 align="center"><em>I take pleasure in my role as a Data Scientist Consultant, specializing in cloud-based operations. My work involves constructing analytical frameworks and uncovering significant insights to address challenges for various client enterprises and organizations.
 
 I possess a strong passion for Machine Learning Systems, Analytics, Business Intelligence, and Cloud Development Operations. My career trajectory aims toward becoming a proficient Data and Analytics Engineer, equipped with valuable Machine Learning Operations (MLOps) Engineering and Cloud computing expertise.
 
