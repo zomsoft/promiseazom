@@ -63,6 +63,16 @@ My academic background in Engineering Technology and Applied Sciences has equipp
 <br>
 <hr>
 
+---
+
+- ## ⚡ Fun fact: I still have not yet seen "Star Wars"! Maybe someday, don't hold your breath! -
+
+## Certifications and Credentials
+You can find my professional certifications using the below links 👇.
+1. https://coursera.org/share/8d127fc3539d11d4ff9eade8923b13ee
+
+---
+
 ## Find below links to some of my projects and repositories 👇.
 
 My all time favorites are linked below in the Pinned Repositories. But here are others as well:
