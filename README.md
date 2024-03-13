@@ -63,9 +63,17 @@ My academic background in Engineering Technology and Applied Sciences has equipp
 <br>
 <hr>
 
+## Find below links to some of my projects and repositories 👇.
 
+My all time favorites are linked below in the Pinned Repositories. But here are others as well:
 
+### Data Science Projects
 
+1. [Salary Prediction Prototype](https://github.com/zomsoft/Batch-1844/blob/main/Projects/PROJECT%201(Salary)_Salary%20Prediction_29082022%20to%2003092022.ipynb)
+2. [World Happiness Report Project](https://github.com/zomsoft/Batch-1844/blob/main/Projects/PROJECT%202(World%20Happiness%20Report)_Happiness%20Prediction_29082022%20to%2003092022.ipynb)
+3. [Red Wine Quality](https://github.com/zomsoft/Batch-1844/blob/main/Projects/PROJECT%203(Red%20Wine%20Quality)_Wine%20Prediction_03092022%20to%2010092022_Final.ipynb)
+
+## I Hope you have a great time going through them. Feedback is highly appreciated.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zomsoft)
 
