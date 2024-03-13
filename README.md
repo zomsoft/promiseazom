@@ -72,6 +72,26 @@ My all time favorites are linked below in the Pinned Repositories. But here are 
 1. [Salary Prediction Prototype](https://github.com/zomsoft/Batch-1844/blob/main/Projects/PROJECT%201(Salary)_Salary%20Prediction_29082022%20to%2003092022.ipynb)
 2. [World Happiness Report Project](https://github.com/zomsoft/Batch-1844/blob/main/Projects/PROJECT%202(World%20Happiness%20Report)_Happiness%20Prediction_29082022%20to%2003092022.ipynb)
 3. [Red Wine Quality](https://github.com/zomsoft/Batch-1844/blob/main/Projects/PROJECT%203(Red%20Wine%20Quality)_Wine%20Prediction_03092022%20to%2010092022_Final.ipynb)
+4. [Age of Abalone](https://github.com/zomsoft/Batch-1844/blob/main/Projects/PROJECT%204(Age_of_Abalone)_Age_Abalone_Predicition_03092022%20to%2010092022_Final.ipynb)
+5. [Titanic Survivors](https://github.com/zomsoft/Batch-1844/blob/main/Projects/PROJECT%205(Titanic)_Titanic%20Prediction_12092022%20to%2020092022.ipynb)
+6. [Advertising Sales Channel Prediction](https://github.com/zomsoft/Batch-1844/blob/main/Projects/PROJECT%206_Advertising%20Sales%20Channel%20Prediction_12092022%20to%2020092022.ipynb)
+7. [Big Data Mart Sales Problem](https://github.com/zomsoft/Batch-1844/blob/main/Projects/PROJECT%207_Big%20Data%20Mart%20Sales%20Problem_12092022%20to%2020092022_Final.ipynb)
+8. [Base Ball Number of Wins](https://github.com/zomsoft/Batch-1844/blob/main/Projects/EVALUATION%20PROJECT%201(BASE%20BALL)_BASE%20BALL_26092022%20to%2005102022.ipynb)
+9. [Zomato Resturant Prediction](https://github.com/zomsoft/Batch-1844/blob/main/Projects/EVALUATION%20PROJECT%2010(ZOMATO_RESTURANT_PREDICTION)_ZOMATO_RESTURANT_16102022%20to%2029102022.ipynb)
+10. [Avocado Project](https://github.com/zomsoft/Batch-1844/blob/main/Projects/EVALUATION%20PROJECT%202(AVOCADO_PROJECT)_AVOCADO_26092022%20to%2005102022.ipynb)
+11. [Employee Attrition](https://github.com/zomsoft/Batch-1844/blob/main/Projects/EVALUATION%20PROJECT%203(EMPLOYEE%20ATTRITION)_HR%20ATTRITION_26092022%20to%2005102022.ipynb)
+12. [Global Power Plant](https://github.com/zomsoft/Batch-1844/blob/main/Projects/EVALUATION%20PROJECT%204(GLOBAL%20POWER%20PLANT_PROJECT)_GLOBAL%20POWER%20PLANT_06102022%20to%2015102022.ipynb)
+13. [Census Income](https://github.com/zomsoft/Batch-1844/blob/main/Projects/EVALUATION%20PROJECT%205(CENSUS%20INCOME)_CENSUS%20INCOME_06102022%20to%2015102022.ipynb)
+14. [Loan Application](https://github.com/zomsoft/Batch-1844/blob/main/Projects/EVALUATION%20PROJECT%206(LOAN%20APPLICATION)_LOAN_APPLICATION_06102022%20to%2015102022_Final.ipynb)
+15. [Customer Retention Prediction](https://github.com/zomsoft/Batch-1844/blob/main/Projects/EVALUATION%20PROJECT%207(CUSTOMER_CHURN)_CUSTOMER%20CHURN_16102022%20to%2029102022_Final.ipynb)
+16. [Rainfall Prediction](https://github.com/zomsoft/Batch-1844/blob/main/Projects/EVALUATION%20PROJECT%208(RAINFALL_PREDICTION%20-%20Weather%20Forecasting)_RAINFALL_PREDICTION_16102022%20to%2029102022_Final.ipynb)
+17. [Insurance Claims](https://github.com/zomsoft/Batch-1844/blob/main/Projects/EVALUATION%20PROJECT%209(INSURANCE%20CLAIMS)_INSURANCE_CLAIMS_16102022%20to%2029102022.ipynb)
+
+### Data Analytics Projects
+
+### Business Intelligence Projects
+
+### Data Engineering Projects
 
 ## I Hope you have a great time going through them. Feedback is highly appreciated.
 
