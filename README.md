@@ -13,7 +13,7 @@
 My academic background in Engineering Technology and Applied Sciences has equipped me with a diverse skill set spanning Data Science/Analytics and Machine Learning. I've participated in numerous Science and Analytics projects, both independently and as part of Agile Development teams, across sectors such as Retail, Energy, Telecommunications, Banking, Financial Services, and HR Analytics. Working with data to uncover insights that drive solutions for businesses and organizations is a source of great satisfaction for me.
 </p>
 
-<p>Furthermore, I am deeply passionate about programming and continuously enhancing my proficiency in Python, R, SQL, database design, data warehouse modeling, as well as Machine Learning model development, experimentation, packaging, and deployment. Additionally, I have some exposure to Product, Program, and Project Management.</p>
+<p>Furthermore, I am deeply passionate about programming and continuously enhancing my proficiency in Python, R, SQL, database design, data warehouse modeling, as well as Machine Learning model development, experimentation, packaging, and deployment. Additionally, I have some exposure to Product and Program Management.</p>
 
 <p>I am actively gaining hands-on experience with Data Science/Analytics, Machine Learning and Business Intelligence Analytics use cases. These use cases are particularly prevalent across various industries undergoing digital transformation, significantly impacting business outcomes.</p>
 
