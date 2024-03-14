@@ -4,7 +4,7 @@
     <img src="https://komarev.com/ghpvc/?username=zomsoft" alt="zomsoft">
 </div>
 
-<h2 align="center"><em>I take pleasure in my role as a Data Science and Analytics Consultant, specializing in cloud-based operations. My work involves constructing analytical frameworks and uncovering significant insights to address challenges for various client enterprises and organizations.</em></h2>
+<h2 align="center"><em>I take pleasure in my role as a Data Science/Analytics and Machine Learning Professional. As a Data enthusiast, my work involves constructing analytical frameworks and uncovering significant insights to address challenges for various client enterprises and organizations.</em></h2>
 
 <p>I possess a strong passion for Machine Learning, Analytics and Business Intelligence. My career trajectory aims toward becoming a proficient Data and Analytics Engineer, equipped with valuable Machine Learning Operations.
 </p>
