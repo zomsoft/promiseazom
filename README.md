@@ -56,8 +56,6 @@ My academic background in Engineering Technology and Applied Sciences has equipp
 <br>
 <hr>
 
----
-
 - ## ⚡ Fun fact: I still have not yet seen "Star Wars"! Maybe someday, don't hold your breath! -
 
 ## Certifications and Credentials
