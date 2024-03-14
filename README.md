@@ -6,16 +6,16 @@
 
 <h2 align="center"><em>I take pleasure in my role as a Data Science and Analytics Consultant, specializing in cloud-based operations. My work involves constructing analytical frameworks and uncovering significant insights to address challenges for various client enterprises and organizations.</em></h2>
 
-<p>I possess a strong passion for Machine Learning Systems, Analytics, Business Intelligence and Cloud Development Operations. My career trajectory aims toward becoming a proficient Data and Analytics Engineer, equipped with valuable Machine Learning Operations (MLOps) Engineering and Cloud computing expertise.
+<p>I possess a strong passion for Machine Learning, Analytics and Business Intelligence. My career trajectory aims toward becoming a proficient Data and Analytics Engineer, equipped with valuable Machine Learning Operations.
 </p>
 
 <p>
-My academic background in Engineering Technology and Applied Sciences has equipped me with a diverse skill set spanning Data and Machine Learning Engineering, Software Development, and Cloud Operations. I've participated in numerous Science and Analytics projects, both independently and as part of Agile Development teams, across sectors such as Retail, Energy, Telecommunications, Banking, Financial Services, and HR Analytics. Working with data to uncover insights that drive solutions for businesses and organizations is a source of great satisfaction for me.
+My academic background in Engineering Technology and Applied Sciences has equipped me with a diverse skill set spanning Data Science/Analytics and Machine Learning. I've participated in numerous Science and Analytics projects, both independently and as part of Agile Development teams, across sectors such as Retail, Energy, Telecommunications, Banking, Financial Services, and HR Analytics. Working with data to uncover insights that drive solutions for businesses and organizations is a source of great satisfaction for me.
 </p>
 
 <p>Furthermore, I am deeply passionate about programming and continuously enhancing my proficiency in Python, R, SQL, database design, data warehouse modeling, as well as Machine Learning model development, experimentation, packaging, and deployment. Additionally, I have some exposure to Product, Program, and Project Management.</p>
 
-<p>I am actively gaining hands-on experience with Big Data and Cloud computing platforms integral to Machine Learning and Business Intelligence Analytics use cases. These use cases are particularly prevalent across various industries undergoing digital transformation, significantly impacting business outcomes.</p>
+<p>I am actively gaining hands-on experience with Data Science/Analytics, Machine Learning and Business Intelligence Analytics use cases. These use cases are particularly prevalent across various industries undergoing digital transformation, significantly impacting business outcomes.</p>
 
 <hr>
 <div align="center">
@@ -77,7 +77,7 @@ You can find my professional certifications using the below links 👇.
 
 My all time favorites are linked below in the Pinned Repositories. But here are others as well:
 
-### Data Science Projects
+### Data Science and Machine Learning Projects
 
 1. [Salary Prediction Prototype](https://github.com/zomsoft/Batch-1844/blob/main/Projects/PROJECT%201(Salary)_Salary%20Prediction_29082022%20to%2003092022.ipynb)
 2. [World Happiness Report Project](https://github.com/zomsoft/Batch-1844/blob/main/Projects/PROJECT%202(World%20Happiness%20Report)_Happiness%20Prediction_29082022%20to%2003092022.ipynb)
@@ -105,7 +105,7 @@ My all time favorites are linked below in the Pinned Repositories. But here are 
 
 ## I Hope you have a great time going through them. Feedback is highly appreciated.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zomsoft)
+
 
 
 
